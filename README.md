@@ -1,7 +1,7 @@
 # Hello Friends 👋!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px">
 <p align="center">
-     <div style="padding-top:97.200%;position:relative;"><iframe src="https://gifer.com/embed/T3vm" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
- </p>
+     <a href="#"><iframe src="https://gifer.com/embed/T3vm" width=480 height=466.560 frameBorder="0" allowFullScreen></iframe></a>
+   </p>
 
 
 ## This Guy Kshitiz Ranjan...... :wink:
