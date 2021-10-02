@@ -27,4 +27,7 @@
 ![Eclipse](https://img.shields.io/badge/eclipse-blue.svg?logo=eclipse)
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?logo=visual%20studio%20code)
 
+![Kshitiz Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=kshitizranjan15&show_icons=true&theme=dracula)
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kshitizranjan15&theme=tokyonight)
+
 
