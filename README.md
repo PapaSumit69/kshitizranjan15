@@ -1,6 +1,6 @@
 # Hello Friends 👋!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px">
 <p align="center">
-     <a href="#"><img src="https://i.gifer.com/T3vm.gif"></a>
+     <a href="#"><img src="https://i.gifer.com/T3vm.gif"></img></a>
    </p>
 
 
