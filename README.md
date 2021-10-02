@@ -7,10 +7,24 @@
 ## This Guy Kshitiz Ranjan...... :wink:
 
 ## 🔗 ABOUT ME.......
+<p align="right"><img src="https://scontent.fpat3-3.fna.fbcdn.net/v/t1.6435-9/90558157_3198672400357776_7727449311503450112_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=r_6b0NzbBDwAX_H7boR&_nc_ht=scontent.fpat3-3.fna&oh=1de3ce7fdef5f7f57cb4a803d90c5a06&oe=617D192D" width="200px"></img></p>
 
 - 🧑‍🎓 Persuing B.Tech In Computer :computer: Science Engineering From **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)*   
 - Member of Codex,And Co-ordinator At Coding Wizard Club.... 
 - Interested in Coding.👨‍💻  	
 - Learning Developing Part.....
 - Mom's🤱 Lover 
+
+## Comfortable With Programming Languages and Tools... :computer:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/eclipse-blue.svg?logo=eclipse)
+![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?logo=visual%20studio%20code)
+
 
