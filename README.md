@@ -31,6 +31,9 @@
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kshitizranjan15&theme=tokyonight)
 
 ## Contact 📞📝 Me.... 
+<p align="center">
+     <a href="https://www.linkedin.com/in/kshitiz-ranjan-5452a9112/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   </p>  
 
 
 
