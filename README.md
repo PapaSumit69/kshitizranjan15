@@ -33,7 +33,7 @@
 
 ![Kshitiz Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=kshitizranjan15&show_icons=true&theme=tokyonight)
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kshitizranjan15&theme=tokyonight)
-| --------------------- | ------------------------- |
+
 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=kshitizranjan15&theme=react-dark" />
 
