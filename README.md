@@ -31,7 +31,7 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=kshitizranjan15&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
 
-![Kshitiz Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=kshitizranjan15&show_icons=true&theme=dracula)
+![Kshitiz Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=kshitizranjan15&show_icons=true&theme=tokyonight)
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kshitizranjan15&theme=tokyonight)
 
 ## Contact 📞📝 Me.... 
