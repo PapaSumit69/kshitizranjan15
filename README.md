@@ -27,6 +27,10 @@
 ![Eclipse](https://img.shields.io/badge/eclipse-blue.svg?logo=eclipse)
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?logo=visual%20studio%20code)
 
+<h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kshitizranjan15&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
+
 ![Kshitiz Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=kshitizranjan15&show_icons=true&theme=dracula)
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kshitizranjan15&theme=tokyonight)
 
