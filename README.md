@@ -14,7 +14,7 @@
 - Interested in Coding.👨‍💻  	
 - Learning Developing Part.....
 - Mom's🤱 Lover 
-- Grrabed Golden Badge(5⭐) in Java On HackerRank
+- Grabbed Golden Badge(5⭐) in Java On HackerRank
 
 ## Comfortable With Programming Languages and Tools... :computer:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
