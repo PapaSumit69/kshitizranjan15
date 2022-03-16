@@ -30,7 +30,7 @@
 
 <h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
 <p align="center">
-<img src="https://scontent.fixr3-2.fna.fbcdn.net/v/t39.30808-6/275245044_3868092710082405_720086746541265179_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=kFk1RdCB8AwAX8yU3hw&_nc_ht=scontent.fixr3-2.fna&oh=00_AT8jQAYvTlgMAKX8bmgv928BtKADjedzo02yDJdvfmNGEg&oe=62363E66" width="780px"  />
+<img src="https://github-profile-trophy.vercel.app/?username=riturajgupta21&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
 
 ![Kshitiz Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=kshitizranjan15&show_icons=true&theme=tokyonight)
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kshitizranjan15&theme=tokyonight)
