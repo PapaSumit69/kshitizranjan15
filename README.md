@@ -7,7 +7,7 @@
 ## This Guy Kshitiz Ranjan...... :wink:
 
 ## 🔗 ABOUT ME.......
-<p align="center"><img src="https://www.instagram.com/p/CV20736M12TTSP3M0e8z4xyWo3HdeqXPxOZWOQ0/" width="600px"></img></p>
+<p align="center"><img src="https://instagram.fccu2-1.fna.fbcdn.net/v/t51.2885-15/251777340_2682201675420860_8681776697485922094_n.jpg?stp=dst-jpg_e35_s320x320&_nc_ht=instagram.fccu2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=nq8xdBtEX8oAX-_MJgd&edm=APU89FABAAAA&ccb=7-4&oh=00_AT-2MEsXsimJ1LpRiGsG0WLoRDKm4dBmgekBXCg6Ql6Yhw&oe=62561B33&_nc_sid=86f79a" width="600px"></img></p>
 
 - 🧑‍🎓 Persuing B.Tech In Computer :computer: Science Engineering From **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)*   
 - Member of Codex,And Co-ordinator At Coding Wizard Club.... 
