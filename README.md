@@ -4,7 +4,7 @@
    </p>
 
 
-## This Guy Kshitiz Ranjan...... :wink:
+## This Guy Is Kshitiz Ranjan...... :wink:
 
 ## 🔗 ABOUT ME.......
 <p align="center"><img src="https://scontent.fccu2-2.fna.fbcdn.net/v/t39.30808-6/279852748_3919388074952868_3234442105758793118_n.jpg?_nc_cat=100&ccb=1-6&_nc_sid=730e14&_nc_ohc=5qrFbRTgaq4AX-9uKxQ&_nc_ht=scontent.fccu2-2.fna&oh=00_AT_lkX8kSlqNscDyj5qRrP5kmCeJN_D_CvehVvqun3pZKw&oe=627BB72D"></img></p>
