@@ -9,12 +9,16 @@
 ## 🔗 ABOUT ME.......
 <p align="center"><img src="https://scontent.fpat3-1.fna.fbcdn.net/v/t39.30808-6/348474579_943350176991171_4192995331582738151_n.jpg?stp=dst-jpg_p480x480&_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=Jyf-irA6JdEAX-fbwcj&_nc_ht=scontent.fpat3-1.fna&oh=00_AfD2VK6g1WLIGRt58OGrbt8bryukyB0gxNEg0PVRfKfDcQ&oe=6489F205" width="400px"></img></p>
 
-- 🧑‍🎓 Persuing B.Tech In Computer :computer: Science Engineering From **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)*   
-- Member of Codex,And Co-ordinator At Career Development Hub.... 
+- 🧑‍🎓 B.Tech In Computer :computer: Science Engineering From **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)*   
+- Was Member of Codex,And Co-ordinator At Career Development Hub.... 
 - Interested in Coding.👨‍💻  	
 - Learning Developing Part.....
 - Mom's🤱 Lover 
+- Wipro Mulesoft Hackathon Winner
 - Grabbed Golden Badge(5⭐) in Java On HackerRank
+- Ex:-Prism Research & Development Intern at Samsung India
+- Completed Hacktober-Fest 2020,2021and 2022
+- Novice and Basic Programming 1 Star Badge
 
 ## Comfortable With Programming Languages and Tools... :computer:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
