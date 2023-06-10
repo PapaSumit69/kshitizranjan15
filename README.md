@@ -40,7 +40,7 @@
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kshitizranjan15&theme=tokyonight)
 
 
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kshitizranjan15&hide_border=true&area=true&point=transparent&theme=react-dark" />
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app?username=kshitizranjan15&hide_border=true&area=true&point=transparent&theme=react-dark" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizranjan15&langs_count=8&theme=react" />
 
