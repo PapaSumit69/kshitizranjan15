@@ -10,13 +10,13 @@
 <p align="center"><img src="https://scontent.fpat3-1.fna.fbcdn.net/v/t39.30808-6/348551863_642721267870399_6682639259917303925_n.jpg?stp=dst-jpg_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=lAOs5eDmnboAX8GJCmF&_nc_ht=scontent.fpat3-1.fna&oh=00_AfBLi9_a28Jn1HxY9mSkMoE0SO2itF-bIijT_uuMLhOD7A&oe=6489D86D" width="400px"></img></p>
 
 - 🧑‍🎓 B.Tech In Computer :computer: Science Engineering From **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)*   
-- Was Member of Codex,And Co-ordinator At Career Development Hub.... 
+- Former Member of Codex,And Former Co-ordinator At Career Development Hub.... 
 - Interested in Coding.👨‍💻  	
 - Learning Developing Part.....
 - Mom's🤱 Lover 
 - Wipro Mulesoft Hackathon Winner
 - Grabbed Golden Badge(5⭐) in Java On HackerRank
-- Ex:-Prism Research & Development Intern at Samsung India
+- Ex Prism Research & Development Intern at Samsung India
 - Completed Hacktober-Fest 2020,2021and 2022
 - Novice and Basic Programming 1 Star Badge
 
