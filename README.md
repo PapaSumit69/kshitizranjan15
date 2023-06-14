@@ -19,6 +19,7 @@
 - Ex Prism Research & Development Intern at Samsung India
 - Completed Hacktober-Fest 2020,2021and 2022
 - Novice and Basic Programming 1 Star Badge
+- Resume **[Click here](https://drive.google.com/file/d/1LWkxeFZBv8sntgK6QYjWH1LcAJQmfQXV/view?usp=sharing)*
 
 ## Comfortable With Programming Languages and Tools... :computer:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
