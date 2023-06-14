@@ -33,6 +33,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/eclipse-blue.svg?logo=eclipse)
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?logo=visual%20studio%20code)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
 <p align="center">
