@@ -7,14 +7,14 @@
 ## This Guy Is Kshitiz Ranjan...... :wink:
 
 ## 🔗 ABOUT ME.......
-<p align="center"><img src="https://github.com/kshitizranjan15/kshitizranjan15/blob/main/FB_IMG_1697351680899.jpg" width="500px"></img></p>
+<p align="center"><img src="https://drive.google.com/file/d/13XU1072qo8hYobkjB0zR9Ys5zLA6dDEW/view?usp=drivesdk" width="500px"></img></p>
 
 - 🧑‍🎓 B.Tech In Computer :computer: Science Engineering From **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)*   
 - Former Member of Codex,And Former Co-ordinator At Career Development Hub.... 
 - Interested in Coding.👨‍💻  	
 - Learning Developing Part.....
 - Mom's🤱 Lover 
-- Wipro Mulesoft Hackathon Winner
+- Wipro Mulesoft 2022 Hackathon Winner
 - Grabbed Golden Badge(5⭐) in Java On HackerRank
 - Ex Prism Research & Development Intern at Samsung India
 - Completed Hacktober-Fest 2020,2021and 2022
