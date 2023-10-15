@@ -7,7 +7,7 @@
 ## This Guy Is Kshitiz Ranjan...... :wink:
 
 ## 🔗 ABOUT ME.......
-<p align="center"><img src="https://scontent-del1-2.xx.fbcdn.net/v/t39.30808-6/318636393_4130545900503750_1361958849448603272_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=49d041&_nc_ohc=jnMBF6NO4cQAX9HlTd9&_nc_ht=scontent-del1-2.xx&oh=00_AfD5ARMT7NB-z0gyQZsyiMx49ekX6rgDEqoDQSx9SxGvsg&oe=65101138" width="500px"></img></p>
+<p align="center"><img src="FB_IMG_1697351680899.jpg" width="500px"></img></p>
 
 - 🧑‍🎓 B.Tech In Computer :computer: Science Engineering From **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)*   
 - Former Member of Codex,And Former Co-ordinator At Career Development Hub.... 
