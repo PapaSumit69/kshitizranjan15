@@ -4,7 +4,7 @@
    </p>
 
 
-## This Guy Is Kshitiz Ranjan...... :wink:
+# This Guy Is Sumit Papa Ka baccha :wink:
 
 ## 🔗 ABOUT ME.......
 <p align="center"><img src="https://photos.app.goo.gl/XNDfpCPtXNuoCsLM9" width="500px"></img></p>
@@ -13,7 +13,7 @@
 - Former Member of Codex,And Former Co-ordinator At Career Development Hub.... 
 - Interested in Coding.👨‍💻  	
 - Learning Developing Part.....
-- Mom's🤱 Lover 
+# Milfs🤱 Lover 
 - Wipro Mulesoft 2022 Hackathon Winner
 - Grabbed Golden Badge(5⭐) in Java On HackerRank
 - Ex Prism Research & Development Intern at Samsung India
